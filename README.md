@@ -26,8 +26,11 @@ O(n^2)
 ## Time Complexity
 
 Average case: O(n^2)
+
 Best case: O(n)
+
 Worst case: O(n^2)
+
 
 ## Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
